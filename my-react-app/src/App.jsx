@@ -23,6 +23,7 @@ function App() {
       <div className='container'>
       
       <h1>AWS CI/CD Pipeline Demo</h1>
+      <h2>Version 2: Demo Application<h2>
 
       <div className="card">
       <div>
