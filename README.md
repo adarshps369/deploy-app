@@ -2,7 +2,6 @@
 
 This repository serves as both a demonstration and the companion code for my detailed tutorial blog post on setting up a fully automated CI/CD pipeline using AWS services. You can follow along with the blog post for step-by-step instructions or use this repository as a reference implementation.
 
-[Link to Blog Post ](https://dev.to/dhayv/ec2-cicd-pipeline-using-aws-codepipeline-codebuild-codedeploy-1p21)
 ## Architecture
 
 ![cloud architecture](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3zehpnu7t8spv7gs7iny.png)
@@ -22,7 +21,6 @@ This repository serves as both a demonstration and the companion code for my det
 - AWS Account with administrative access
 - GitHub account
 - Basic understanding of AWS services
-- Familiarity with React/Vite applications
 
 ## Benefits
 
@@ -139,9 +137,6 @@ hooks:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Acknowledgments
 
